@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Uppg1Shake</string>
+    <string name="accelerometer_data">Accelerometer Data</string>
+    <string name="image">Image</string>
+    <string name="button">Button</string>
+    <string name="reset">Reset</string>
+</resources>
